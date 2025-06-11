@@ -38,11 +38,11 @@ Softwares:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="Figma Logo" />
   <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/v0.svg" height="60"  alt="V0 Logo" />
 </p>
-###
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yas-amini)
-###
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yas-amini&layout=compact&langs_count=10)
-###
+
 
 
 

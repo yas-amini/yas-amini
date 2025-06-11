@@ -37,7 +37,6 @@ Softwares:
   <img height="60" src="https://www.cursor.com/assets/images/logo.svg" height="60" alt="Cursor Logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="Figma Logo" />
   <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/v0.svg" height="60"  alt="V0 Logo" />
-
 </p>
 ###
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yas-amini)

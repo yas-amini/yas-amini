@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## My tech stack:
+My tech stack:
 <p align="left">
   <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" height="60" alt="JS Logo" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" height="60" alt="HTML5 Logo" />

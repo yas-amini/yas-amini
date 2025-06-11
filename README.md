@@ -32,7 +32,7 @@ My tech stack:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="Figma Logo" />
-<img height="60" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/v0.svg" alt="V0 Logo" />
+<img height="60" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/v0.svg"  height="60" alt="V0 Logo" />
 </p>
 
 

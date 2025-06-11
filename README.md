@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Blossom.png" alt="Blossom" width="25" height="25" /> I'm currently learning Express JS 
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" />  Reach me here: 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" />  Reach me here: yaasamin.amini@gmail.com
 <!--
 **yas-amini/yas-amini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

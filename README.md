@@ -29,7 +29,7 @@ My tech stack:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="60" alt="Express.js Logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="Figma Logo" />
 </p>
-###
+
 Softwares:
 <p align="left">
   <img height="60" src="https://www.cursor.com/assets/images/logo.svg" height="60" alt="Cursor Logo" />

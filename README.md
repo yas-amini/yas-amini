@@ -1,7 +1,5 @@
 ## Hi, I'm Yasamin <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
-
 ###
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWgzanV3MzFtZTN6dnhxMzB1NXNvM2lvMXBnejU5bTEzOHVwbHYxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xCCqt6qDewWf6zriPX/giphy.gif" width="300" />
 
 ###
 
@@ -29,6 +27,8 @@ My tech stack:
   <img src="https://files.brandlogos.net/svg/p9rFMhuYOp/microsoft-sql-server-logo-brandlogos.net_eer8xkaa1.svg" height="60" alt="Microsoft SQL Server Logo" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="60" alt="Bootstrap Logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="60" alt="Express.js Logo" />
+  <img src="https://s3-figma-hubfile-images-production.figma.com/hub/file/carousel/img/b8d00b2e389e3a38f115ea00f7dc3dff3ef4f337/dbc32aa496f21ffa8508a4f6432d1e6c6f76e3b1" height="60" alt="Fig
+
 </p>
 
 ###
@@ -38,6 +38,7 @@ My tech stack:
 ###
 
 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 
 
 

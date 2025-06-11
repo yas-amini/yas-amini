@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yas-amini)
 ###
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yas-amini&layout=compact&langs_count=10)
+###
 <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" width="50" alt="JS Logo" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="60" alt="HTML5 Logo" />
 

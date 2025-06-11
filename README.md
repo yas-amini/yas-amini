@@ -27,15 +27,16 @@ My tech stack:
   <img src="https://files.brandlogos.net/svg/p9rFMhuYOp/microsoft-sql-server-logo-brandlogos.net_eer8xkaa1.svg" height="60" alt="Microsoft SQL Server Logo" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="60" alt="Bootstrap Logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="60" alt="Express.js Logo" />
-
-</p>
-
-<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="Figma Logo" />
-<img height="60" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/v0.svg"  height="60" alt="V0 Logo" />
 </p>
+###
+Softwares:
+<p align="left">
+  <img height="60" src="https://www.cursor.com/assets/images/logo.svg" height="60" alt="Cursor Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="Figma Logo" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/v0.svg" height="60"  alt="V0 Logo" />
 
-
+</p>
 ###
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yas-amini)
 ###

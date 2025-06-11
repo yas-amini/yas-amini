@@ -1,4 +1,5 @@
 ## Hi, I'm Yasamin👋
+###
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWgzanV3MzFtZTN6dnhxMzB1NXNvM2lvMXBnejU5bTEzOHVwbHYxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xCCqt6qDewWf6zriPX/giphy.gif" width="300" />
 
 <!--
@@ -17,5 +18,4 @@ Here are some ideas to get you started:
 -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yas-amini)
 ###
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yas-amini&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yas-amini&layout=compact&langs_count=10)

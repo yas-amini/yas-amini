@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yas-amini)
 ###
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yas-amini&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yas-amini&layout=compact&langs_count=10)

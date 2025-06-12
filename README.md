@@ -50,7 +50,7 @@ Softwares:
 <p align="left">
   <img height="60" src="https://www.cursor.com/assets/images/logo.svg" height="60" alt="Cursor Logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="Figma Logo" />
-<img src="https://res.cloudinary.com/dv3ljntuc/image/upload/v1749721958/Group_1_i7groe.png" height="60" alt="V0 Logo" />
+  <img src="https://res.cloudinary.com/dv3ljntuc/image/upload/v1749721958/Group_1_i7groe.png" height="60" alt="V0 Logo" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" height="60" alt="VS code Logo" />
 
 </p>

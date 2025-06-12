@@ -43,6 +43,8 @@ My tech stack:
 <img src="https://res.cloudinary.com/dv3ljntuc/image/upload/v1749722453/Group_2_hpdnsl.svg" height="60" alt="Custom Express.js Logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="Figma Logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React Logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" height="60" alt="Sass Logo" />
+
 
 </p>
 

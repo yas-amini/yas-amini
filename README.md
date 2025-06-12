@@ -1,17 +1,17 @@
 ## Hi, I'm Yasamin <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 ###
 <p>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" width="20" style="position: relative; top: 4px;" alt="Technologist" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" width="20" style="vertical-align: top;" alt="Technologist" />
   I'm currently studying Frontend Development
 </p>
 
 <p>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Blossom.png" width="20" style="position: relative; top: 4px;" alt="Blossom" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Blossom.png" width="20" style="vertical-align: top;" alt="Blossom" />
   I'm currently learning Express JS
 </p>
 
 <p>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="20" style="position: relative; top: 4px;" alt="Email" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="20" style="vertical-align: top;" alt="Email" />
   Reach me: <a href="mailto:yaasamin.amini@gmail.com">yaasamin.amini@gmail.com</a>
 </p>
 

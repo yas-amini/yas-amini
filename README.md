@@ -33,20 +33,20 @@ Here are some ideas to get you started:
 -->
 My tech stack:
 <p align="left">
-  <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" height="60" alt="JS Logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/512px-HTML5_Badge.svg.png?20110131171049" height="60" alt="HTML5 Logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" height="60" alt="W3.CSS Logo" />
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" height="60" alt="Git Logo" />
-    <img src="https://res.cloudinary.com/dv3ljntuc/image/upload/v1749727260/Group_4_wgp2dv.svg" height="60" alt="Node.js Logo" />
+  <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" height="50" alt="JS Logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/512px-HTML5_Badge.svg.png?20110131171049" height="50" alt="HTML5 Logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" height="50" alt="W3.CSS Logo" />
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" height="50" alt="Git Logo" />
+    <img src="https://res.cloudinary.com/dv3ljntuc/image/upload/v1749727260/Group_4_wgp2dv.svg" height="50" alt="Node.js Logo" />
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" height="60" alt="Node.js Logo" />
-  <img src="https://files.brandlogos.net/svg/p9rFMhuYOp/microsoft-sql-server-logo-brandlogos.net_eer8xkaa1.svg" height="60" alt="Microsoft SQL Server Logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="60" alt="Bootstrap Logo" />
-<img src="https://res.cloudinary.com/dv3ljntuc/image/upload/v1749722453/Group_2_hpdnsl.svg" height="60" alt="Custom Express.js Logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="Figma Logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React Logo" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" height="60" alt="Sass Logo" />
-    <img src="https://res.cloudinary.com/dv3ljntuc/image/upload/v1749727046/Group_3_hbgona.svg" height="60" alt="npm Logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" height="50" alt="Node.js Logo" />
+  <img src="https://files.brandlogos.net/svg/p9rFMhuYOp/microsoft-sql-server-logo-brandlogos.net_eer8xkaa1.svg" height="50" alt="Microsoft SQL Server Logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="50" alt="Bootstrap Logo" />
+<img src="https://res.cloudinary.com/dv3ljntuc/image/upload/v1749722453/Group_2_hpdnsl.svg" height="50" alt="Custom Express.js Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React Logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" height="50" alt="Sass Logo" />
+    <img src="https://res.cloudinary.com/dv3ljntuc/image/upload/v1749727046/Group_3_hbgona.svg" height="50" alt="npm Logo" />
 
 
 </p>
@@ -54,10 +54,10 @@ My tech stack:
 
 Softwares:
 <p align="left">
-  <img height="60" src="https://www.cursor.com/assets/images/logo.svg" height="60" alt="Cursor Logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="Figma Logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" height="60" alt="VS code Logo" />
-  <img src="https://res.cloudinary.com/dv3ljntuc/image/upload/v1749721958/Group_1_i7groe.png" height="60" alt="V0 Logo" />
+  <img height="60" src="https://www.cursor.com/assets/images/logo.svg" height="50" alt="Cursor Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma Logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" height="50" alt="VS code Logo" />
+  <img src="https://res.cloudinary.com/dv3ljntuc/image/upload/v1749721958/Group_1_i7groe.png" height="50" alt="V0 Logo" />
 
 
 </p>

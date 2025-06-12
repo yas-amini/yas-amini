@@ -1,19 +1,26 @@
 ## Hi, I'm Yasamin <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 ###
 <p>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Woman Technologist Light Skin Tone" width="25" height="25" style="vertical-align: middle;" />
-  I'm currently studying Frontend Development
+  <span>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" width="25" style="vertical-align: middle;" alt="Technologist" />
+    <span style="vertical-align: middle;"> I'm currently studying Frontend Development</span>
+  </span>
 </p>
 
 <p>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Blossom.png" alt="Blossom" width="25" height="25" style="vertical-align: middle;" />
-  I'm currently learning Express JS
+  <span>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Blossom.png" width="25" style="vertical-align: middle;" alt="Blossom" />
+    <span style="vertical-align: middle;"> I'm currently learning Express JS</span>
+  </span>
 </p>
 
 <p>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" style="vertical-align: middle;" />
-  Reach me: <a href="mailto:yaasamin.amini@gmail.com">yaasamin.amini@gmail.com</a>
+  <span>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="25" style="vertical-align: middle;" alt="Email" />
+    <span style="vertical-align: middle;"> Reach me: <a href="mailto:yaasamin.amini@gmail.com">yaasamin.amini@gmail.com</a></span>
+  </span>
 </p>
+
 
 <!--
 **yas-amini/yas-amini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

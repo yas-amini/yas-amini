@@ -11,7 +11,7 @@
 </p>
 
 <p>
-  <img src="https://res.cloudinary.com/dv3ljntuc/image/upload/v1749723405/E-Mail_1_getmsb.png" alt="Email" />
+  <img src="https://res.cloudinary.com/dv3ljntuc/image/upload/v1749723405/E-Mail_1_getmsb.png"  width="20" style="vertical-align: top;" alt="Email" />
   Reach me: <a href="mailto:yaasamin.amini@gmail.com">yaasamin.amini@gmail.com</a>
 </p>
 

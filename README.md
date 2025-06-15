@@ -40,7 +40,7 @@ My tech stack:
     <img src="https://res.cloudinary.com/dv3ljntuc/image/upload/v1749727260/Group_4_wgp2dv.svg" height="50" alt="Node.js Logo" />
   <img src="https://files.brandlogos.net/svg/p9rFMhuYOp/microsoft-sql-server-logo-brandlogos.net_eer8xkaa1.svg" height="50" alt="Microsoft SQL Server Logo" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="50" alt="Bootstrap Logo" />
-  <img src="https://res.cloudinary.com/dv3ljntuc/image/upload/v1749990814/Group_6_ke2acg.png" height="50" alt="Custom Express.js BOX Logo" />
+  <img src="https://res.cloudinary.com/dv3ljntuc/image/upload/v1749990814/Group_6_ke2acg.png" height="50" alt="Express.js BOX Logo" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma Logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React Logo" />
@@ -57,7 +57,7 @@ Softwares:
   <img height="60" src="https://www.cursor.com/assets/images/logo.svg" height="50" alt="Cursor Logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma Logo" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" height="50" alt="VS code Logo" />
-  <img src="https://res.cloudinary.com/dv3ljntuc/image/upload/v1749721958/Group_1_i7groe.png" height="50" alt="V0 Logo" />
+  <img src="https://res.cloudinary.com/dv3ljntuc/image/upload/v1749991073/Group_6_xikm1u.svg" height="50" alt="V0 Logo" />
 
 
 </p>

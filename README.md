@@ -38,8 +38,6 @@ My tech stack:
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" height="50" alt="W3.CSS Logo" />
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" height="50" alt="Git Logo" />
     <img src="https://res.cloudinary.com/dv3ljntuc/image/upload/v1749727260/Group_4_wgp2dv.svg" height="50" alt="Node.js Logo" />
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" height="50" alt="Node.js Logo" />
   <img src="https://files.brandlogos.net/svg/p9rFMhuYOp/microsoft-sql-server-logo-brandlogos.net_eer8xkaa1.svg" height="50" alt="Microsoft SQL Server Logo" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="50" alt="Bootstrap Logo" />
 <img src="https://res.cloudinary.com/dv3ljntuc/image/upload/v1749722453/Group_2_hpdnsl.svg" height="50" alt="Custom Express.js Logo" />

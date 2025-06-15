@@ -41,6 +41,8 @@ My tech stack:
   <img src="https://files.brandlogos.net/svg/p9rFMhuYOp/microsoft-sql-server-logo-brandlogos.net_eer8xkaa1.svg" height="50" alt="Microsoft SQL Server Logo" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="50" alt="Bootstrap Logo" />
 <img src="https://res.cloudinary.com/dv3ljntuc/image/upload/v1749722453/Group_2_hpdnsl.svg" height="50" alt="Custom Express.js Logo" />
+  <img src="https://res.cloudinary.com/dv3ljntuc/image/upload/v1749990814/Group_6_ke2acg.png" height="50" alt="Custom Express.js BOX Logo" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma Logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React Logo" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" height="50" alt="Sass Logo" />

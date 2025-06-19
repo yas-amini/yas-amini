@@ -2,7 +2,7 @@
 ###
 <p>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" width="20" style="vertical-align: top;" alt="Technologist" />
-  I'm currently studying Frontend Development
+ Studying Frontend Development
 </p>
 
 <p>

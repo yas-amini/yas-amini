@@ -54,7 +54,7 @@ My tech stack:
 
 Softwares:
 <p align="left">
-  <img src="https://images.seeklogo.com/logo-png/61/1/cursor-logo-png_seeklogo-611587.png" height="50" alt="Cursor Logo" />
+  <img src="https://res.cloudinary.com/dwkynqk04/image/upload/v1752415909/cursor-seeklogo_y8kfvm.svg" height="50" alt="Cursor Logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma Logo" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" height="50" alt="VS code Logo" />
   <img src="https://res.cloudinary.com/dv3ljntuc/image/upload/v1749991073/Group_6_xikm1u.svg" height="50" alt="V0 Logo" />

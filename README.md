@@ -46,7 +46,7 @@ My tech stack:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React Logo" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" height="50" alt="Sass Logo" />
         <img src="https://res.cloudinary.com/dv3ljntuc/image/upload/v1749727046/Group_3_hbgona.svg" height="50" alt="npm Logo box" />
-                <img src="https://res.cloudinary.com/dv3ljntuc/image/upload/v1749727046/Group_3_hbgona.svg" height="50" alt="Three JS Logo" />
+                <img src="https://res.cloudinary.com/dwkynqk04/image/upload/v1753609716/Threejs-logo_cuni3q.png" height="50" alt="Three JS Logo" />
 
 
 

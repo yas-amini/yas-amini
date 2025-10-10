@@ -37,16 +37,16 @@ My tech stack:
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/512px-HTML5_Badge.svg.png?20110131171049" height="50" alt="HTML5 Logo" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" height="50" alt="W3.CSS Logo" />
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" height="50" alt="Git Logo" />
-    <img src="https://res.cloudinary.com/dv3ljntuc/image/upload/v1749727260/Group_4_wgp2dv.svg" height="50" alt="Node.js Logo" />
+  <img src="https://res.cloudinary.com/dv3ljntuc/image/upload/v1749727260/Group_4_wgp2dv.svg" height="50" alt="Node.js Logo" />
   <img src="https://files.brandlogos.net/svg/p9rFMhuYOp/microsoft-sql-server-logo-brandlogos.net_eer8xkaa1.svg" height="50" alt="Microsoft SQL Server Logo" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="50" alt="Bootstrap Logo" />
   <img src="https://res.cloudinary.com/dv3ljntuc/image/upload/v1749991238/Group_8_sdwsdb.svg" height="50" alt="Express.js BOX Logo" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma Logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React Logo" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" height="50" alt="Sass Logo" />
-        <img src="https://res.cloudinary.com/dv3ljntuc/image/upload/v1749727046/Group_3_hbgona.svg" height="50" alt="npm Logo box" />
-                <img src="https://res.cloudinary.com/dwkynqk04/image/upload/v1753609716/Threejs-logo_cuni3q.png" height="50" alt="Three JS Logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" height="50" alt="Sass Logo" />
+  <img src="https://res.cloudinary.com/dv3ljntuc/image/upload/v1749727046/Group_3_hbgona.svg" height="50" alt="npm Logo box" />
+ <img src="https://res.cloudinary.com/dwkynqk04/image/upload/v1753609716/Threejs-logo_cuni3q.png" height="50" alt="Three JS Logo" />
 
 
 
@@ -60,6 +60,9 @@ Softwares:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma Logo" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" height="50" alt="VS code Logo" />
   <img src="https://res.cloudinary.com/dv3ljntuc/image/upload/v1749991073/Group_6_xikm1u.svg" height="50" alt="V0 Logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_Blender.svg" height="50" alt="Blender Logo" />
+
+
 
 
 </p>

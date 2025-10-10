@@ -7,7 +7,7 @@
 
 <p>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Blossom.png" width="20" style="vertical-align: top;" alt="Blossom" />
-  I'm currently learning Express JS
+  I'm currently learning TypeScript
 </p>
 
 <p>

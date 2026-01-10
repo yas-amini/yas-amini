@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 My tech stack:
 <p align="left">
   <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" height="50" alt="JS Logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/512px-HTML5_Badge.svg.png?20110131171049" height="50" alt="HTML5 Logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="50" alt="HTML5 Logo" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" height="50" alt="W3.CSS Logo" />
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" height="50" alt="Git Logo" />
   <img src="https://res.cloudinary.com/dv3ljntuc/image/upload/v1749727260/Group_4_wgp2dv.svg" height="50" alt="Node.js Logo" />

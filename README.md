@@ -104,16 +104,13 @@ I don't just write code; I explore the intersection of Logic, Design, and 3D Web
 <div align="center">
   
   <h3>Let's Connect!</h3>
-  
-  I'm always open to discussing frontend trends or potential internship opportunities.
-  <br><br>
 
-  <a href="https://your-portfolio.com"><strong>🌐 Portfolio</strong></a> 
+
+ 🌐 <a href="https://your-portfolio.com"><strong> Portfolio</strong></a> 
   &nbsp; • &nbsp;
   <a href="https://linkedin.com/in/your-profile"><strong>💼 LinkedIn</strong></a> 
   &nbsp; • &nbsp;
   <a href="mailto:yaasamin.amini@gmail.com"><strong>📧 Email Me</strong></a> 
-  &nbsp; • &nbsp;
-  <a href="https://github.com/yas-amini"><strong>🐙 GitHub</strong></a>
+
 
 </div>

@@ -1,64 +1,197 @@
-# 👋 Yasamin Amini
-<Frontend Developer />
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" />
+<h1>Yasamin Amini</h1>
+<p>&lt;FrontendDeveloper /&gt;</p>
 
-📍 **Stockholm** · 🎓 **Student** · 🟢 **LIA: April 2026**
+<!-- Status Bar -->
 
----
+<a href="https://linkedin.com/in/yourprofile">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Location-Stockholm-0969da%3Fstyle%3Dflat-square%26logo%3Dgooglemaps%26logoColor%3Dwhite" alt="Stockholm">
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/yourprofile">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LIA-Available_April_2026-2ea44f%3Fstyle%3Dflat-square%26logo%3Dgithub%26logoColor%3Dwhite" alt="LIA Available">
+</a>
+&nbsp;
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Role-Student-0969da%3Fstyle%3Dflat-square%26logo%3Dgooglescholar%26logoColor%3Dwhite" alt="Student">
+</div>
 
-## ⚡ About Me
-I’m a **Frontend Developer student** passionate about bridging the gap between design and technical implementation.
+<!-- Main Layout Table: About (Left) & Stack (Right) -->
 
-I enjoy exploring the intersection of **logic, design, and 3D web**, and I’m currently deepening my knowledge in **TypeScript** to build more robust applications.
+<table>
+<tr>
+<td width="60%" valign="top">
 
-*Looking for a frontend LIA internship where I can contribute to real-world products and continue growing my React skills.*
+<h3>⚡ About Me</h3>
 
----
+I’m a Frontend Developer student passionate about bridging the gap between design and technical implementation.
 
-## 🛠 Tech Stack
+I don't just write code; I explore the intersection of Logic, Design, and 3D Web.
 
-**Core (Languages & Frameworks)**  
-<img src="https://skillicons.dev/icons?i=js,react,ts,html,threejs&theme=dark" />
+🚀 Current Focus: Deepening my knowledge in TypeScript to build more robust applications.
 
-**Styling & Build**  
-<img src="https://skillicons.dev/icons?i=css,sass,tailwind,vite&theme=dark" />
+<em>Looking for a LIA internship where I can contribute to real-world products and level up my React skills.</em>
 
-**Tools & Design**  
-<img src="https://skillicons.dev/icons?i=git,figma,vscode,blender&theme=dark" />
+</td>
+<td width="40%" valign="top">
 
----
+<h3>🛠 Tech Stack</h3>
 
-## 🚀 Featured Projects
+<div align="center">
 
-### 🛍️ Project Name 1
-**Tech:** React · TypeScript · Vite  
-A responsive e-commerce dashboard with cart functionality and API integration.
+<p align="center" style="font-size: 10px; color: #8b949e;"><strong>Core (Languages & Frameworks)</strong></p>
+<img src="https://skillicons.dev/icons?i=js,react,ts,html,threejs&theme=dark" height="35" />
 
----
 
-### 🎲 Project Name 2
-**Tech:** Three.js · React Three Fiber  
-An interactive 3D web experience showcasing creative coding skills.
 
----
 
-## 🎯 What I Bring
-- **Attention to detail** — pixel-aware implementations  
-- **Quick learner** — motivated to level up skills continuously  
-- **Design-minded** — UX/UI awareness in development  
 
----
+<p align="center" style="font-size: 10px; color: #8b949e;"><strong>Styling & Build</strong></p>
+<img src="https://skillicons.dev/icons?i=css,sass,tailwind,vite&theme=dark" height="35" />
 
-## 📊 GitHub Activity
+
+
+
+
+<p align="center" style="font-size: 10px; color: #8b949e;"><strong>Tools & Design</strong></p>
+<img src="https://skillicons.dev/icons?i=git,figma,vscode,blender&theme=dark" height="35" />
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<!-- Featured Projects Section -->
+
+<h3>🚀 Featured Projects</h3>
+
+<table>
+<tr>
+<td width="50%">
+<h4 align="center"><a href="#">🛍️ [Project Name 1]</a></h4>
+<p align="center">A responsive e-commerce dashboard with cart functionality and API integration.</p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yas-amini&theme=radical&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yas-amini&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" />
+<code>React</code> <code>TypeScript</code> <code>Vite</code>
 </p>
+</td>
+<td width="50%">
+<h4 align="center"><a href="#">🎲 [Project Name 2]</a></h4>
+<p align="center">An interactive 3D web experience showcasing creative coding skills.</p>
+<p align="center">
+<code>Three.js</code> <code>R3F</code> <code>Blender</code>
+</p>
+</td>
+</tr>
+</table>
 
----
+<!-- What I Bring Section -->
 
-## Contact
-Open to frontend **LIA opportunities in Stockholm**.
+<h3>What I Bring</h3>
 
-- 🌐 Portfolio: _add link_
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile
-- ✉️ Email: yaasamin.amini@gmail.com
+<table>
+<tr>
+<td align="center" width="33%">
+
+
+
+
+
+<h1>🎯</h1>
+<strong>Attention to Detail</strong>
+
+
+
+
+
+
+
+Pixel-perfect implementations
+
+
+
+
+
+
+
+</td>
+<td align="center" width="33%">
+
+
+
+
+
+<h1>📚</h1>
+<strong>Quick Learner</strong>
+
+
+
+
+
+
+
+Passionate about leveling up skills
+
+
+
+
+
+
+
+</td>
+<td align="center" width="33%">
+
+
+
+
+
+<h1>🎨</h1>
+<strong>Design-Minded</strong>
+
+
+
+
+
+
+
+UX/UI awareness in development
+
+
+
+
+
+
+
+</td>
+</tr>
+</table>
+
+<!-- Stats Section -->
+
+<div align="center">
+
+<h2>📊 GitHub Activity</h2>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yas-amini&theme=radical&hide_border=true" height="150" alt="streak stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yas-amini&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="top langs" />
+
+</div>
+
+<!-- Footer -->
+
+<div align="center">
+
+<h3>Let's Connect!</h3>
+
+I'm always open to discussing frontend trends or potential internship opportunities.
+
+
+
+
+
+
+<a href="https://your-portfolio.com">🌐 Portfolio</a> •
+<a href="https://linkedin.com/in/your-profile">💼 LinkedIn</a> •
+<a href="mailto:yaasamin.amini@gmail.com">📧 Email Me</a> •
+<a href="https://github.com/yas-amini">🐙 GitHub</a>
+
+</div>

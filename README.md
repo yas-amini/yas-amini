@@ -101,14 +101,26 @@ I don't just write code; I explore the intersection of Logic, Design, and 3D Web
 <!-- Footer -->
 
 <div align="center">
+  
+  <h3>Let's Connect!</h3>
+  
+  I'm always open to discussing frontend trends or potential internship opportunities.
+  <br><br>
 
-<h3>Let's Connect!</h3>
-
-I'm always open to discussing frontend trends or potential internship opportunities.
-
-<a href="https://your-portfolio.com">🌐 Portfolio</a> •
-<a href="https://linkedin.com/in/your-profile">💼 LinkedIn</a> •
-<a href="mailto:yaasamin.amini@gmail.com">📧 Email Me</a> •
-<a href="https://github.com/yas-amini">🐙 GitHub</a>
+  <a href="https://your-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:yaasamin.amini@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/yas-amini">
+    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 
 </div>

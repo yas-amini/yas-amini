@@ -106,11 +106,10 @@ I don't just write code; I explore the intersection of Logic, Design, and 3D Web
   <h3>Let's Connect!</h3>
 
 
- 🌐 <a href="https://your-portfolio.com"><strong> Portfolio</strong></a> 
-  &nbsp; • &nbsp;
-  <a href="https://linkedin.com/in/your-profile"><strong>💼 LinkedIn</strong></a> 
-  &nbsp; • &nbsp;
-  <a href="mailto:yaasamin.amini@gmail.com"><strong>📧 Email Me</strong></a> 
+
+  <a href="https://linkedin.com/in/your-profile"><strong> My LinkedIn</strong></a> 
+
+ 📧 <a href="mailto:yaasamin.amini@gmail.com"><strong> Email Me</strong></a> 
 
 
 </div>

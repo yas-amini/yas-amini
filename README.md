@@ -89,82 +89,28 @@ I don't just write code; I explore the intersection of Logic, Design, and 3D Web
 
 <h3>What I Bring</h3>
 
-<table>
-<tr>
-<td align="center" width="33%">
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <h2>🎯</h2>
+      <strong>Attention to Detail</strong>
+      <p>Pixel-perfect implementations</p>
+    </td>
 
+    <td width="33%" align="center">
+      <h2>📚</h2>
+      <strong>Quick Learner</strong>
+      <p>Passionate about leveling up skills</p>
+    </td>
 
-
-
-
-<h1>🎯</h1>
-<strong>Attention to Detail</strong>
-
-
-
-
-
-
-
-Pixel-perfect implementations
-
-
-
-
-
-
-
-</td>
-<td align="center" width="33%">
-
-
-
-
-
-<h1>📚</h1>
-<strong>Quick Learner</strong>
-
-
-
-
-
-
-
-Passionate about leveling up skills
-
-
-
-
-
-
-
-</td>
-<td align="center" width="33%">
-
-
-
-
-
-<h1>🎨</h1>
-<strong>Design-Minded</strong>
-
-
-
-
-
-
-
-UX/UI awareness in development
-
-
-
-
-
-
-
-</td>
-</tr>
+    <td width="33%" align="center">
+      <h2>🎨</h2>
+      <strong>Design-Minded</strong>
+      <p>UX/UI awareness in development</p>
+    </td>
+  </tr>
 </table>
+
 
 <!-- Stats Section -->
 

@@ -24,7 +24,6 @@
             position: relative;
             box-shadow: 0 0 50px rgba(0,0,0,0.5);
         }
-        /* Subtle Glow at top */
         .readme-box::before {
             content: '';
             position: absolute;
@@ -35,8 +34,6 @@
             height: 2px;
             background: linear-gradient(90deg, transparent, #7ee787, #58a6ff, transparent);
         }
-        
-        /* Typography */
         h1 {
             font-size: 3rem;
             font-weight: 800;
@@ -47,7 +44,7 @@
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
         }
-        h2 {
+        h3 {
             font-size: 1.2rem;
             color: #e6edf3;
             border-bottom: 1px solid #21262d;
@@ -58,8 +55,6 @@
             align-items: center;
             gap: 10px;
         }
-        
-        /* Custom Status Bar */
         .status-bar {
             display: flex;
             justify-content: center;
@@ -80,43 +75,34 @@
             gap: 8px;
         }
         .status-highlight {
-            color: #7ee787; /* Green for LIA */
+            color: #7ee787;
         }
-        
-        /* Grid Layout for About + Stack */
         .grid-section {
             display: grid;
             grid-template-columns: 1.2fr 0.8fr;
             gap: 40px;
             margin-bottom: 40px;
         }
-        
-        /* Stats Styling */
-        .stats-wrapper {
-            display: flex;
-            justify-content: center;
-            gap: 15px;
-            flex-wrap: wrap;
-        }
-        
-        /* Links */
         a { color: #58a6ff; text-decoration: none; font-weight: 500;}
         a:hover { text-decoration: underline; }
-
         .typing-effect {
             font-family: monospace;
             color: #8b949e;
             text-align: center;
             margin-bottom: 20px;
         }
-
-        /* Project Cards (Simulated for Preview) */
         .project-card {
             background: #161b22;
             border: 1px solid #30363d;
             padding: 15px;
             border-radius: 8px;
             margin-bottom: 10px;
+        }
+        .stats-wrapper {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            flex-wrap: wrap;
         }
     </style>
 </head>
@@ -135,24 +121,17 @@
             </div>
             <h1>Yasamin Amini</h1>
             <div class="typing-effect">
-                &lt;FrontendDeveloper /&gt;
+                Frontend Developer Student
             </div>
         </div>
 
         <!-- Modern Status Bar -->
         <div class="status-bar">
             <div class="status-pill">
-                <i class="fas fa-map-marker-alt text-red-400"></i> Stockholm
-            </div>
-            <div class="status-pill" style="border-color: #238636;">
-                <span class="relative flex h-2 w-2">
-                  <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-green-400 opacity-75"></span>
-                  <span class="relative inline-flex rounded-full h-2 w-2 bg-green-500"></span>
-                </span>
-                <span class="status-highlight">LIA: April 2026</span>
+                <img src="https://img.shields.io/badge/LIA_Internship-Available_April_2026-2ea44f?style=flat-square&logo=github&logoColor=white" alt="LIA Available">
             </div>
             <div class="status-pill">
-                <i class="fas fa-graduation-cap text-blue-400"></i> Student
+                <img src="https://img.shields.io/badge/Location-Stockholm-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="Stockholm">
             </div>
         </div>
 
@@ -161,40 +140,47 @@
             
             <!-- Left Column: About -->
             <div>
-                <h2>⚡ About Me</h2>
+                <h3>⚡ About Me</h3>
                 <p>
                     I’m a <strong>Frontend Developer student</strong> passionate about bridging the gap between design and technical implementation. 
                 </p>
                 <p>
-                    I don't just write code; I explore the intersection of <strong>logic, design, and 3D web</strong>. Currently, I am deepening my knowledge in <strong>TypeScript</strong> to build more robust applications.
+                    I don't just write code; I explore the intersection of <strong>Logic, Design, and 3D Web</strong>. Currently, I am deepening my knowledge in <strong>TypeScript</strong> to build more robust applications.
                 </p>
-                <p style="margin-top: 20px; font-size: 0.9em; color: #8b949e;">
-                    <em>Looking for a LIA internship where I can contribute to real-world products and level up my React skills.</em>
-                </p>
+                
+                <h3 style="margin-top: 30px;">What I Bring</h3>
+                <div style="margin-bottom: 15px;">
+                    <strong>🎯 Attention to Detail</strong><br>
+                    <span style="color: #8b949e; font-size: 0.9em;">Pixel-perfect implementations</span>
+                </div>
+                <div style="margin-bottom: 15px;">
+                    <strong>📚 Quick Learner</strong><br>
+                    <span style="color: #8b949e; font-size: 0.9em;">Passionate about leveling up skills</span>
+                </div>
+                <div>
+                    <strong>🎨 Design-Minded</strong><br>
+                    <span style="color: #8b949e; font-size: 0.9em;">UX/UI awareness in development</span>
+                </div>
             </div>
 
-            <!-- Right Column: Tech Stack (Reorganized) -->
+            <!-- Right Column: Tech Stack -->
             <div>
-                <h2>🛠 Tech Stack</h2>
-                <div style="margin-bottom: 15px;">
-                    <div class="text-xs text-gray-500 mb-2 uppercase tracking-widest font-bold">Core (Languages & Frameworks)</div>
-                    <img src="https://skillicons.dev/icons?i=js,react,ts,html,threejs&theme=dark" style="height: 35px;">
-                </div>
-                
-                <div style="margin-bottom: 15px;">
-                    <div class="text-xs text-gray-500 mb-2 uppercase tracking-widest font-bold">Styling & Build</div>
-                    <img src="https://skillicons.dev/icons?i=css,sass,tailwind,vite&theme=dark" style="height: 35px;">
-                </div>
+                <h3>🛠 Tech Stack</h3>
+                <div style="text-align: center;">
+                    <div style="font-size: 0.8em; color: #8b949e; margin-bottom: 5px; font-weight: bold;">Core (Languages & Frameworks)</div>
+                    <img src="https://skillicons.dev/icons?i=js,react,ts,html,threejs&theme=dark" style="height: 35px; margin-bottom: 20px;">
+                    
+                    <div style="font-size: 0.8em; color: #8b949e; margin-bottom: 5px; font-weight: bold;">Styling & Build</div>
+                    <img src="https://skillicons.dev/icons?i=css,sass,tailwind,vite&theme=dark" style="height: 35px; margin-bottom: 20px;">
 
-                <div style="margin-bottom: 15px;">
-                    <div class="text-xs text-gray-500 mb-2 uppercase tracking-widest font-bold">Tools & Design</div>
+                    <div style="font-size: 0.8em; color: #8b949e; margin-bottom: 5px; font-weight: bold;">Tools & Design</div>
                     <img src="https://skillicons.dev/icons?i=git,figma,vscode,blender&theme=dark" style="height: 35px;">
                 </div>
             </div>
         </div>
 
-        <!-- Featured Projects (New Section) -->
-        <h2>🚀 Featured Projects</h2>
+        <!-- Featured Projects -->
+        <h3>🚀 Featured Projects</h3>
         <div class="grid grid-cols-2 gap-4 text-sm mb-8">
             <div class="project-card">
                 <div class="font-bold text-blue-400 mb-1">🛍️ [Project Name 1]</div>
@@ -208,45 +194,21 @@
             </div>
         </div>
 
-        <!-- What I Bring (Updated) -->
-        <h2>What I Bring</h2>
-        <div class="grid grid-cols-3 gap-4 text-center text-sm">
-            <div class="bg-gray-900 p-4 rounded-lg border border-gray-800">
-                <div class="text-2xl mb-2">🎯</div>
-                <div class="font-bold text-gray-300">Attention to Detail</div>
-                <div class="text-gray-500 text-xs mt-1">Pixel-perfect implementations</div>
-            </div>
-            <div class="bg-gray-900 p-4 rounded-lg border border-gray-800">
-                <div class="text-2xl mb-2">📚</div>
-                <div class="font-bold text-gray-300">Quick Learner</div>
-                <div class="text-gray-500 text-xs mt-1">Passionate about leveling up skills</div>
-            </div>
-            <div class="bg-gray-900 p-4 rounded-lg border border-gray-800">
-                <div class="text-2xl mb-2">🎨</div>
-                <div class="font-bold text-gray-300">Design-Minded</div>
-                <div class="text-gray-500 text-xs mt-1">UX/UI awareness in development</div>
-            </div>
-        </div>
-
         <!-- Stats -->
-        <h2>📊 GitHub Activity</h2>
+        <h3>📊 GitHub Activity</h3>
         <div class="stats-wrapper">
              <img src="https://github-readme-streak-stats.herokuapp.com/?user=yas-amini&theme=radical&hide_border=true" style="height: 150px; border-radius: 8px;">
              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yas-amini&layout=compact&theme=radical&hide_border=true&langs_count=6" style="height: 150px; border-radius: 8px;">
         </div>
 
-        <!-- Footer (Reverted to Original Style) -->
+        <!-- Footer -->
         <div class="mt-10 pt-6 border-t border-gray-800 text-center">
-            <h2 style="font-size: 1.5rem; margin-bottom: 10px; border: none;">Let's Connect!</h2>
-            <p style="color: #8b949e; margin-bottom: 20px;">I'm always open to discussing frontend trends or potential internship opportunities.</p>
-            <div class="flex justify-center gap-4 text-lg font-medium">
-                <a href="#" class="text-blue-400 hover:text-blue-300 transition"><i class="fas fa-globe"></i> Portfolio</a>
-                <span class="text-gray-700">•</span>
-                <a href="https://linkedin.com/in/yourprofile" class="text-blue-400 hover:text-blue-300 transition"><i class="fab fa-linkedin"></i> LinkedIn</a>
-                <span class="text-gray-700">•</span>
-                <a href="mailto:yaasamin.amini@gmail.com" class="text-blue-400 hover:text-blue-300 transition"><i class="fas fa-envelope"></i> Email Me</a>
-                <span class="text-gray-700">•</span>
-                <a href="https://github.com/yas-amini" class="text-blue-400 hover:text-blue-300 transition"><i class="fab fa-github"></i> GitHub</a>
+            <h3 style="font-size: 1.1rem; margin-bottom: 15px; color: #fff; justify-content: center; border: none;">Let's Connect!</h3>
+            <div class="flex justify-center gap-4 text-sm">
+                <a href="#" class="text-blue-400 hover:text-blue-300">🌐 Portfolio</a> • 
+                <a href="https://linkedin.com/in/yourprofile" class="text-blue-400 hover:text-blue-300">💼 LinkedIn</a> • 
+                <a href="mailto:yaasamin.amini@gmail.com" class="text-blue-400 hover:text-blue-300">📧 Email Me</a> • 
+                <a href="https://github.com/yas-amini" class="text-blue-400 hover:text-blue-300">🐙 GitHub</a>
             </div>
         </div>
 

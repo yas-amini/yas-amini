@@ -1,3 +1,11 @@
+<p>
+📍 Stockholm
+&nbsp;&nbsp; | &nbsp;&nbsp;
+🟢 <strong>LIA: April 2026</strong>
+&nbsp;&nbsp; | &nbsp;&nbsp;
+🎓 Student
+</p>
+</div>
 <div align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" /> <h1>Yasamin Amini</h1> <p>&lt;FrontendDeveloper /&gt;</p> <!-- Status Bar --> <a href="https://linkedin.com/in/yourprofile"> <img src="https://img.shields.io/badge/Location-Stockholm-0969da?style=flat-square&logo=googlemaps&logoColor=white" alt="Stockholm"> </a> &nbsp; <a href="https://linkedin.com/in/yourprofile"> <img src="https://img.shields.io/badge/LIA-Available_April_2026-2ea44f?style=flat-square&logo=github&logoColor=white" alt="LIA Available"> </a> &nbsp; <img src="https://img.shields.io/badge/Role-Student-0969da?style=flat-square&logo=googlescholar&logoColor=white" alt="Student"> </div> <!-- Main Layout Table: About (Left) & Stack (Right) --> <table> <tr> <td width="60%" valign="top"> <h3>⚡ About Me</h3>
 I'm a Frontend Developer student passionate about bridging the gap between design and technical implementation.
 

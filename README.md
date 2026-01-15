@@ -92,10 +92,11 @@ I don't just write code; I explore the intersection of Logic, Design, and 3D Web
 
 <div align="center">
 
-<h2>📊 GitHub Stats</h2>
+<h2>📊 GitHub Activity</h2>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yas-amini&show_icons=true&theme=radical&hide_border=true)
 
-[![GitHub Profile](https://img.shields.io/badge/View_My_Repos-GitHub-181717?style=flat-square&logo=github)](https://github.com/yas-amini)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yas-amini&layout=compact&theme=radical&hide_border=true&langs_count=6)
 
 </div>
 

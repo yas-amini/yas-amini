@@ -1,12 +1,11 @@
 <div align="center">
 <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" /> Yasamin Amini</h1>
 </div>
-
+<div align="center">
 <p>&lt;FrontendDeveloper /&gt;</p>
 
 <p>📍 Stockholm &nbsp;&nbsp; | &nbsp;&nbsp; 🟢 <strong>LIA: April 2026</strong> &nbsp;&nbsp; | &nbsp;&nbsp; 🎓 Student</p>
 </div>
-
 <!-- Main Layout Table: About (Left) & Stack (Right) -->
 
 <table>

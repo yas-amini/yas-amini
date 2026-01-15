@@ -89,35 +89,11 @@ I don't just write code; I explore the intersection of Logic, Design, and 3D Web
 </table>
 
 
-<!-- Stats Section -->
-
-<div align="center">
-
-<h2>📊 My Work</h2>
-
-<p><strong>View my repositories to see my projects in action!</strong></p>
-
-I'm particularly proud of work that showcases React component architecture, TypeScript best practices, and responsive design.
-
-<p>
-<a href="https://github.com/yas-amini?tab=repositories">
-<img src="https://img.shields.io/badge/View_Repositories-GitHub-181717?style=for-the-badge&logo=github" alt="View Repositories">
-</a>
-</p>
-
-</div>
-
 
 <!-- Footer -->
 <div align="center">
-  
   <h3>Let's Connect!</h3>
-
-
-
-  <a href="https://linkedin.com/in/your-profile"><strong> My LinkedIn</strong></a> 
-
- 📧 <a href="mailto:yaasamin.amini@gmail.com"><strong> Email Me</strong></a> 
-
-
+  <p>
+    <a href="https://linkedin.com/in/your-profile"><strong>💼 My LinkedIn</strong></a> &nbsp;&nbsp; | &nbsp;&nbsp; <a href="mailto:yaasamin.amini@gmail.com"><strong>📧 Email Me</strong></a>
+  </p>
 </div>

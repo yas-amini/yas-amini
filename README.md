@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" />
-<h1>Yasamin Amini</h1>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" /><h1>Yasamin Amini</h1>
+
 <p>&lt;FrontendDeveloper /&gt;</p>
 
 <p>📍 Stockholm &nbsp;&nbsp; | &nbsp;&nbsp; 🟢 <strong>LIA: April 2026</strong> &nbsp;&nbsp; | &nbsp;&nbsp; 🎓 Student</p>

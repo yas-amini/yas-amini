@@ -88,15 +88,22 @@ I don't just write code; I explore the intersection of Logic, Design, and 3D Web
 </tr>
 </table>
 
+
 <!-- Stats Section -->
 
 <div align="center">
 
-<h2>📊 GitHub Activity</h2>
+<h2>📊 My Work</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yas-amini&show_icons=true&theme=radical&hide_border=true)
+<p><strong>View my repositories to see my projects in action!</strong></p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yas-amini&layout=compact&theme=radical&hide_border=true&langs_count=6)
+I'm particularly proud of work that showcases React component architecture, TypeScript best practices, and responsive design.
+
+<p>
+<a href="https://github.com/yas-amini?tab=repositories">
+<img src="https://img.shields.io/badge/View_Repositories-GitHub-181717?style=for-the-badge&logo=github" alt="View Repositories">
+</a>
+</p>
 
 </div>
 

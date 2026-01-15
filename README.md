@@ -89,12 +89,15 @@ I don't just write code; I explore the intersection of Logic, Design, and 3D Web
 </table>
 
 <!-- Stats Section -->
-<div align="center">
-<h2>📊 GitHub Activity</h2>
-<img src="https://streak-stats.demolab.com?user=yas-amini&theme=rising-sun&hide_border=true" height="150" alt="streak stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yas-amini&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="top langs" />
-</div>
 
+<div align="center">
+
+<h2>📊 GitHub Stats</h2>
+
+
+[![GitHub Profile](https://img.shields.io/badge/View_My_Repos-GitHub-181717?style=flat-square&logo=github)](https://github.com/yas-amini)
+
+</div>
 
 
 <!-- Footer -->

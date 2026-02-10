@@ -1,4 +1,4 @@
-ok now i wanna double check my readme on github,  <div align="center">
+<div align="center">
 <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" /> Yasamin Amini</h1>
 </div>
 <div align="center">

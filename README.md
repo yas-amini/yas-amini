@@ -1,12 +1,19 @@
+ok now i wanna double check my readme on github,  <div align="center">
+<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" /> Yasamin Amini</h1>
+</div>
 <div align="center">
-<h1>👋 Yasamin Amini</h1>
-<p>&lt;Frontend Developer /&gt;</p>
+<p>&lt;FrontendDeveloper /&gt;</p>
+
 <p>📍 Stockholm &nbsp;&nbsp; | &nbsp;&nbsp; 🟢 <strong>LIA: April 2026</strong> &nbsp;&nbsp; | &nbsp;&nbsp; 🎓 Student</p>
 </div>
+<!-- Main Layout Table: About (Left) & Stack (Right) -->
 
----
+<table>
+<tr>
+<td width="60%" valign="top">
 
-### ⚡ About Me
+<h3>⚡ About Me</h3>
+
 I’m a frontend developer student passionate about building modern, user-friendly web applications with React and JavaScript. I combine a strong technical foundation with a focus on UX/UI and understanding real user needs.  
 
 I have experience working with APIs, database integration, and agile workflows, and I enjoy turning designs and ideas into functional, polished products.  
@@ -14,10 +21,13 @@ I have experience working with APIs, database integration, and agile workflows, 
 🚀 **Currently:** Deepening my skills in TypeScript to create more robust, maintainable applications.  
 💡 **Looking for:** A LIA internship starting April 2026, where I can contribute to real projects and grow as a developer.
 
----
+</td>
+<td width="40%" valign="top">
 
-### 🛠 Tech Stack
+<h3>🛠 Tech Stack</h3>
+
 <div align="center">
+
 <p align="center" style="font-size: 10px; color: #8b949e;"><strong>Core (Languages & Frameworks)</strong></p>
 <img src="https://skillicons.dev/icons?i=js,react,ts,html,threejs&theme=dark" height="35" />
 
@@ -26,11 +36,17 @@ I have experience working with APIs, database integration, and agile workflows, 
 
 <p align="center" style="font-size: 10px; color: #8b949e;"><strong>Tools & Design</strong></p>
 <img src="https://skillicons.dev/icons?i=git,figma,vscode,blender&theme=dark" height="35" />
+
 </div>
 
----
+</td>
+</tr>
+</table>
 
-### 🚀 Featured Projects
+<!-- Featured Projects Section -->
+
+<h3>🚀 Featured Projects</h3>
+
 <table>
 <tr>
 <td width="50%">
@@ -50,9 +66,10 @@ I have experience working with APIs, database integration, and agile workflows, 
 </tr>
 </table>
 
----
+<!-- What I Bring Section -->
 
-### 💡 What I Bring
+<h3>💡 What I Bring</h3>
+
 <table width="100%">
 <tr>
 <td width="33%" align="center">
@@ -70,21 +87,12 @@ I have experience working with APIs, database integration, and agile workflows, 
 </tr>
 </table>
 
----
 
-### 💼 Work Experience (Relevant)
-- **SEO & Content Producer, Omnitas Consulting** (Jan 2022 – May 2022)  
-  Created SEO-optimized content, worked with CMS, and supported digital projects in agile teams.  
 
-- **Sales Advisor, Massimo Dutti** (2014 – 2019)  
-  Delivered personalized service, managed cash and inventory, and contributed to exceeding sales goals.  
-
-- **Digital Content Creator, Hold That Pose For Me** (2014 – 2019)  
-  Produced online content for Sweden’s street dance scene, managed community engagement, and documented cultural events.
-
----
-
-### 📧 Let's Connect
-<p align="center">
-<a href="https://linkedin.com/in/yasaminamini/"><strong>💼 LinkedIn</strong></a> &nbsp;&nbsp; | &nbsp;&nbsp; <a href="mailto:yaasamin.amini@gmail.com"><strong>📧 Email</strong></a> &nbsp;&nbsp; | &nbsp;&nbsp; <a href="https://github.com/yas-amini"><strong>💻 GitHub</strong></a>
-</p>
+<!-- Footer -->
+<div align="center">
+  <h3>Let's Connect!</h3>
+  <p>
+    <a href="https://linkedin.com/in/your-profile"><strong>💼 My LinkedIn</strong></a> &nbsp;&nbsp; | &nbsp;&nbsp; <a href="mailto:yaasamin.amini@gmail.com"><strong>📧 Email Me</strong></a>
+  </p>
+</div>

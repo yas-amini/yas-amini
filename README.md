@@ -20,6 +20,7 @@ I have experience working with APIs, database integration, and agile workflows, 
 
 🚀 **Currently:** Deepening my skills in TypeScript to create more robust, maintainable applications.  
 💡 **Looking for:** A LIA internship starting April 2026, where I can contribute to real projects and grow as a developer.
+</br>
 
 </td>
 <td width="40%" valign="top">

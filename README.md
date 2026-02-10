@@ -50,10 +50,10 @@ I have experience working with APIs, database integration, and agile workflows, 
 <table>
 <tr>
 <td width="50%">
-<h4 align="center"><a href="#">🛍️ [Project Name 1]</a></h4>
-<p align="center">A responsive e-commerce dashboard with cart functionality and API integration.</p>
+<h4 align="center"><a href="#">🛍️ Wearhaus</a></h4>
+<p align="center">A responsive, API-driven online clothing store built as a full-stack application</p>
 <p align="center">
-<code>React</code> <code>TypeScript</code> <code>Vite</code>
+<code>React (Vite)</code> <code>Node.js (Express.js)</code> <code>SQLite</code>
 </p>
 </td>
 <td width="50%">

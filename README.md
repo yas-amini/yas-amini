@@ -57,10 +57,10 @@ I have experience working with APIs, database integration, and agile workflows, 
 </p>
 </td>
 <td width="50%">
-<h4 align="center"><a href="#">🎲 [Project Name 2]</a></h4>
-<p align="center">An interactive 3D web experience showcasing creative coding skills.</p>
+<h4 align="center"><a href="https://github.com/yas-amini/felino-website/">🎲Felino</a></h4>
+<p align="center">A web-based system designed for comprehensive administration of product listings and user interactions.</p>
 <p align="center">
-<code>Three.js</code> <code>R3F</code> <code>Blender</code>
+<code>Node.js (Express.js)</code> <code>EJS</code> <code>SQLite</code>
 </p>
 </td>
 </tr>

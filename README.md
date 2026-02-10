@@ -93,6 +93,7 @@ I have experience working with APIs, database integration, and agile workflows, 
 <div align="center">
   <h3>Let's Connect!</h3>
   <p>
-    <a href="https://linkedin.com/in/your-profile](https://www.linkedin.com/in/yasaminamini/"><strong>💼 My LinkedIn</strong></a> &nbsp;&nbsp; | &nbsp;&nbsp; <a href="mailto:yaasamin.amini@gmail.com"><strong>📧 Email Me</strong></a>
+  <a href="https://www.linkedin.com/in/yasaminamini/"><strong>💼 LinkedIn</strong></a>
+ &nbsp;&nbsp; | &nbsp;&nbsp; <a href="mailto:yaasamin.amini@gmail.com"><strong>📧 Email Me</strong></a>
   </p>
 </div>

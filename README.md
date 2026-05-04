@@ -4,7 +4,7 @@
 <div align="center">
 <p>&lt;FrontendDeveloper /&gt;</p>
 
-<p>📍 Stockholm &nbsp;&nbsp; | &nbsp;&nbsp; 🟢 <strong>LIA: April 2026</strong> &nbsp;&nbsp; | &nbsp;&nbsp; 🎓 Developer </p>
+<p>📍 Stockholm &nbsp;&nbsp; | &nbsp;&nbsp; 🎓 Developer </p>
 </div>
 <!-- Main Layout Table: About (Left) & Stack (Right) -->
 
